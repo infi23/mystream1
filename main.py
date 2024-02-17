@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+st.write("Infinity Coding Club 2024")
 # Membuat data dari dictionary
 # data = {
 #     'id': [1, 2, 3, 4, 5],
